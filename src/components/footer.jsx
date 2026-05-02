@@ -183,7 +183,7 @@ const Footer = () => {
           </div>
 
           <div className="footer-copyright">
-            <p>© 2025 Krushna Roadlines. All rights reserved.</p>
+            <p>© 2025 Krushna Roadlines. All rights reserved. | Developed by Yash Auti</p>
           </div>
         </div>
       </div>
